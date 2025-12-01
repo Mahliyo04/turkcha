@@ -1,5 +1,7 @@
+Flask
 pyTelegramBotAPI
 deep-translator
 gTTS
-Flask
 python-dotenv
+gunicorn
+requests
