@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+deep-translator
+gTTS
+Flask
+python-dotenv
